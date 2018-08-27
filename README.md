@@ -1,5 +1,7 @@
 # GrammarParsers
 
+For this project, I built recursive-descent and table-driven parsers for grammar of arithmetic expressions.
+
 Build instructions: make expr
 
 How to run my project’s program:
